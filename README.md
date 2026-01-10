@@ -36,7 +36,7 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 ### 🤖 [Agentis - AI Voice Assistant](https://github.com/hassanwaheedali/Agentis-Project))
 > An intelligent voice-controlled AI assistant with LLM integration for natural conversations and task automation
 
-**Technologies:** Python, LangChain, Groq API, pyttsx3, speech_recognition  
+**Technologies:** Python, PyGame, Gemini API, pyttsx3, speech_recognition  
 **Key Features:**
 - Real-time voice interaction with natural language processing
 - Multi-functional task execution (web search, weather updates, entertainment)
@@ -102,28 +102,6 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 
 ---
 
-## 💼 Professional Experience
-
-### 🎨 **Graphic Designer** | SplendIT Limited
-*January 2024 - April 2024*
-- Designed marketing materials and brand assets for diverse client projects
-- Collaborated with cross-functional teams to deliver creative solutions
-- Enhanced brand visibility through compelling visual design
-
-### 📋 **Virtual Assistant** | SLR Business
-*October 2023 - December 2023*
-- Managed administrative tasks and streamlined business operations
-- Coordinated client communications and project deliverables
-- Improved workflow efficiency through digital tools and automation
-
-### 📱 **Digital Marketing Manager** | Strive SMS
-*March 2023 - June 2023*
-- Developed and executed comprehensive digital marketing strategies
-- Managed social media campaigns with measurable ROI improvement
-- Analyzed market trends to optimize campaign performance
-
----
-
 ## 🎓 Education & Certifications
 
 ### 📚 **Education**
@@ -133,20 +111,6 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 ### 🏆 **Certifications**
 - **Mobile App Development** | NED Academy *(2025)*
 - **Graphic Designing & Digital Literacy** | DigiSkills. pk *(2020)*
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassanwaheedali&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanwaheedali&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/?user=hassanwaheedali&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
