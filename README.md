@@ -10,7 +10,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-hassanwaheedali-181717?style=flat&logo=github)](https://github.com/hassanwaheedali)
-[![Email](https://img.shields.io/badge/Email-hassanwaheedalis%40gmail. com-red?style=flat&logo=gmail)](mailto:hassanwaheedalis@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hassanwaheedalis%40gmail.com-red?style=flat&logo=gmail)](mailto:hassanwaheedalis@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B92%20336%203090793-green?style=flat&logo=whatsapp)](tel:+923363090793)
 
 </div>
@@ -33,7 +33,7 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 
 ## 🎯 Featured Projects
 
-### 🤖 [Agentis - AI Voice Assistant](https://github.com/hassanwaheedali/Agentis-Project)
+### 🤖 [Agentis - AI Voice Assistant](https://github.com/hassanwaheedali/Agentis-Project))
 > An intelligent voice-controlled AI assistant with LLM integration for natural conversations and task automation
 
 **Technologies:** Python, LangChain, Groq API, pyttsx3, speech_recognition  
@@ -42,7 +42,7 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 - Multi-functional task execution (web search, weather updates, entertainment)
 - Seamless LLM integration for context-aware responses
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717? style=flat&logo=github)](https://github.com/hassanwaheedali/Agentis-Project)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/agentis)
 
 ---
 
@@ -51,15 +51,16 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 
 **Technologies:** React, JavaScript, CSS, Responsive Design  
 **Key Features:**
-- Three-tier architecture: Admin dashboard, customer website, and mobile app
+- Three-tier architecture:  Admin dashboard, customer website, and mobile app
 - Real-time inventory management and order tracking
 - Modern UI/UX with seamless cross-platform experience
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/deals-dunya)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/deals-dunya) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat&logo=vercel)](https://deals-dunya. vercel.app)
 
 ---
 
-### 💱 [Currency Converter & Password Generator](https://github.com/hassanwaheedali/Currency-Converter-Project)
+### 💱 [Currency Converter & Password Generator]
+(https://github.com/hassanwaheedali/Currency-Converter-Project)
 > Dual-purpose web application combining real-time currency conversion with secure password generation
 
 **Technologies:** React, JavaScript, External APIs, Tailwind CSS  
@@ -68,7 +69,7 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 - Secure random password generation with customizable parameters
 - Clean, intuitive interface for daily utility needs
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/Currency-Converter-Project)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/currency-converter)
 
 ---
 
@@ -76,8 +77,8 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 
 ### 💻 **AI & Backend Development**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212? style=flat&logo=chainlink&logoColor=white)
-![AI/LLM](https://img.shields.io/badge/AI%2FLLM%20Integration-FF6F00? style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
+![AI/LLM](https://img.shields.io/badge/AI%2FLLM%20Integration-FF6F00?style=flat&logo=openai&logoColor=white)
 
 ### 🌐 **Web Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -131,7 +132,7 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 
 ### 🏆 **Certifications**
 - **Mobile App Development** | NED Academy *(2025)*
-- **Graphic Designing & Digital Literacy** | DigiSkills.pk *(2020)*
+- **Graphic Designing & Digital Literacy** | DigiSkills. pk *(2020)*
 
 ---
 
@@ -143,7 +144,7 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassanwaheedali&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats. herokuapp.com/?user=hassanwaheedali&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp. com/?user=hassanwaheedali&theme=radical&hide_border=true)
 
 </div>
 
@@ -157,7 +158,7 @@ I'm always excited to work on innovative projects, contribute to open-source, an
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-hassanwaheedalis%40gmail.com-D14836? style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanwaheedalis@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hassanwaheedalis%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hassanwaheedalis@gmail.com)
 [![Phone](https://img.shields.io/badge/WhatsApp-%2B92%20336%203090793-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923363090793)
 [![GitHub](https://img.shields.io/badge/GitHub-hassanwaheedali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hassanwaheedali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassanwaheedali)
@@ -181,6 +182,6 @@ I'm always excited to work on innovative projects, contribute to open-source, an
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hassanwaheedali&color=blueviolet&style=flat-square&label=Profile+Views)
 
-*Thanks for visiting! Don't forget to ⭐ star my repositories if you find them interesting!*
+*Thanks for visiting!  Don't forget to ⭐ star my repositories if you find them interesting! *
 
 </div>
