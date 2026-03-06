@@ -68,7 +68,7 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 - WebGL particle system hero (Three.js), GSAP scroll animations, and magnetic button interactions
 - Full appointment booking engine with automatic staff assignment and real-time availability validation
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/EleganceSalon)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/EleganceSalon) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat&logo=vercel)](https://elegancesalonmen.vercel.app/)
 
 ---
 
