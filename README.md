@@ -59,6 +59,19 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 
 ---
 
+### 💈 [Elegance Salon - Barbershop Web Application](https://github.com/hassanwaheedali/EleganceSalon)
+> A premium, client-side barbershop web application featuring a cinematic landing page, multi-role management system, and appointment booking engine — running entirely in the browser with zero backend dependency
+
+**Technologies:** React 19, Vite 7, Tailwind CSS 4, GSAP 3, Three.js, Framer Motion, React Router DOM v7, LocalStorage  
+**Key Features:**
+- Multi-role system with distinct Admin, Staff, and Client dashboards and access control
+- WebGL particle system hero (Three.js), GSAP scroll animations, and magnetic button interactions
+- Full appointment booking engine with automatic staff assignment and real-time availability validation
+
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/EleganceSalon)
+
+---
+
 ### 📚 [Library Management System](https://github.com/hassanwaheedali/library-management-system)
 > A robust backend application engineered with Object-Oriented Programming principles to manage library operations and data persistence
 
