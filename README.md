@@ -4,7 +4,7 @@
   Hi, I'm Hassan Waheed Ali
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=Software+Engineering+Student;Front+End+Developer;AI+Enthusiast;Building+the+Future+with+Code!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=Software+Engineer;Full-Stack+Developer;Python+Enthusiast;Building+Scalable+Digital+Solutions!" alt="Typing SVG" />
 
 <br/>
 <br/>
@@ -19,21 +19,21 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with a strong focus on **front-end development** and **AI integration**. I specialize in creating intuitive, user-centric web applications that leverage modern technologies to solve real-world problems. 
+I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with a strong focus on **Full-Stack Development and Backend Logic**. I specialize in building high-performance, scalable systems using **Python and React** — from architecting robust backend services to crafting responsive, user-centric interfaces.
 
 💡 **What I Do:**
-- 🤖 Build AI-powered applications with voice control and LLM integration
-- 🎨 Design and develop responsive, pixel-perfect user interfaces
-- 🛠️ Create full-stack solutions combining React, Python, and modern frameworks
-- 📱 Craft seamless digital experiences from concept to deployment
+- 🐍 Design and build backend systems and APIs with Python and FastAPI
+- 🏗️ Develop full-stack solutions with clean architecture and data persistence
+- ⚛️ Build responsive, pixel-perfect frontends with React and Tailwind CSS
+- 🤖 Integrate AI capabilities with voice control and LLM-powered logic
 
-🌱 Currently exploring advanced AI/ML integrations and expanding my full-stack capabilities. 
+🌱 Currently mastering **PostgreSQL, FastAPI, and RESTful API development** to engineer production-ready, scalable digital solutions.
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🤖 [Agentis - AI Voice Assistant](https://github.com/hassanwaheedali/Agentis-Project))
+### 🤖 [Agentis - AI Voice Assistant](https://github.com/hassanwaheedali/Agentis-Project)
 > An intelligent voice-controlled AI assistant with LLM integration for natural conversations and task automation
 
 **Technologies:** Python, PyGame, Gemini API, pyttsx3, speech_recognition  
@@ -51,54 +51,54 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 
 **Technologies:** React, JavaScript, CSS, Responsive Design  
 **Key Features:**
-- Three-tier architecture:  Admin dashboard, customer website, and mobile app
+- Three-tier architecture: Admin dashboard, customer website, and mobile app
 - Real-time inventory management and order tracking
 - Modern UI/UX with seamless cross-platform experience
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/deals-dunya) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat&logo=vercel)](https://deals-dunya. vercel.app)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/deals-dunya) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat&logo=vercel)](https://deals-dunya.vercel.app)
 
 ---
 
-### 💱 [Currency Converter & Password Generator]
-(https://github.com/hassanwaheedali/Currency-Converter-Project)
-> Dual-purpose web application combining real-time currency conversion with secure password generation
+### 📚 [Library Management System](https://github.com/hassanwaheedali/library-management-system)
+> A robust backend application engineered with Object-Oriented Programming principles to manage library operations and data persistence
 
-**Technologies:** React, JavaScript, External APIs, Tailwind CSS  
+**Technologies:** Python, OOP, JSON, Data Persistence  
 **Key Features:**
-- Real-time exchange rates from live APIs
-- Secure random password generation with customizable parameters
-- Clean, intuitive interface for daily utility needs
+- Role-based access control with distinct Admin, Librarian, and Student permissions
+- Automated inventory tracking with real-time availability and record management
+- Robust backend logic engineered using Object-Oriented Programming architecture
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/currency-converter)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/library-management-system)
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 **AI & Backend Development**
+### ⚙️ **Backend & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat&logo=chainlink&logoColor=white)
-![AI/LLM](https://img.shields.io/badge/AI%2FLLM%20Integration-FF6F00?style=flat&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat&logo=fastapi&logoColor=white)
 
-### 🌐 **Web Development**
+### 🌐 **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### 🎨 **Design & Creative Tools**
+### 🔧 **Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
-![Capcut](https://img.shields.io/badge/Capcut-000000?style=flat&logo=tiktok&logoColor=white)
 
 ### 📊 **Additional Skills**
-- UI/UX Design Principles
-- Responsive Web Design
-- API Integration & Development
-- Digital Marketing & SEO
-- Video Editing & Motion Graphics
+- Database Design (PostgreSQL)
+- RESTful API Development
+- Object-Oriented Programming (OOP)
+- UI/UX Design
+- Version Control (Git)
 
 ---
 
@@ -110,13 +110,13 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 
 ### 🏆 **Certifications**
 - **Mobile App Development** | NED Academy *(2025)*
-- **Graphic Designing & Digital Literacy** | DigiSkills. pk *(2020)*
+- **Graphic Designing & Digital Literacy** | DigiSkills.pk *(2020)*
 
 ---
 
 ## 🤝 Let's Connect & Collaborate!
 
-I'm always excited to work on innovative projects, contribute to open-source, and connect with fellow developers and creators. Whether you have a project idea, need a collaborator, or just want to chat about tech, feel free to reach out!
+I'm always excited to work on innovative projects, contribute to open-source, and connect with fellow engineers and creators. Whether you have a project idea, need a collaborator, or just want to chat about software engineering, feel free to reach out!
 
 ### 📬 **Get in Touch:**
 
@@ -136,16 +136,16 @@ I'm always excited to work on innovative projects, contribute to open-source, an
 - 💼 Full-time or internship opportunities
 - 🤝 Open-source contributions
 - 📚 Knowledge sharing and mentorship
-- 🎯 Innovative AI and web development projects
+- 🎯 Innovative software engineering and full-stack projects
 
 ---
 
 <div align="center">
   
-### ⭐ **"Building the future, one line of code at a time."**
+### ⭐ **"Engineering scalable solutions, one commit at a time."**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hassanwaheedali&color=blueviolet&style=flat-square&label=Profile+Views)
 
-*Thanks for visiting!  Don't forget to ⭐ star my repositories if you find them interesting! *
+*Thanks for visiting! Don't forget to ⭐ star my repositories if you find them interesting!*  
 
 </div>
