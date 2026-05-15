@@ -3,6 +3,8 @@
 <!-- HEADER BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:16213E&height=220&section=header&text=Hassan%20Waheed%20Ali&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Database%20Architect&descSize=18&descAlignY=55&descColor=58A6FF&animation=fadeIn"/>
 
+<br/>
+
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;PostgreSQL+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Python+%F0%9F%92%BB" alt="typing animation"/>
 
