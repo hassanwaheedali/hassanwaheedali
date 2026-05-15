@@ -4,8 +4,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:16213E&height=220&section=header&text=Hassan%20Waheed%20Ali&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Database%20Architect&descSize=18&descAlignY=55&descColor=58A6FF&animation=fadeIn"/>
 
 <!-- TYPING ANIMATION -->
-<br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;PostgreSQL+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Python+%F0%9F%92%BB" alt="typing animation"/>
 
 <br/>
@@ -55,17 +53,20 @@ education:
     year: 2022
 
 certifications:
+  - Hard Parts of JavaScript — Frontend Masters (2026)
+  - Complete Intro to SQL & PostgreSQL — Frontend Masters (2026)
   - Mobile App Development — NED Academy (2025)
   - Graphic Designing & Digital Literacy — DigiSkills.pk (2020)
+  - WordPress & Freelancing — DigiSkills.pk (2020)
 
 currently_building: Production-grade backend systems with PostgreSQL & FastAPI
-specialization: Backend Architecture • Database Design • Full-Stack Development
+specialization: Frontend Development • Backend Architecture • Database Design • Full-Stack Development
 motto: "Engineering scalable solutions, one query at a time."
 ```
 
 <br/>
 
-> 🔥 I'm a **Software Engineering student** who has progressed from frontend to **full-stack development** with a deep specialization in **backend systems**. I design and build **production-ready APIs** with FastAPI, architect **PostgreSQL databases** with advanced optimization, and craft polished frontend experiences with React. I don't just write code — I engineer robust, maintainable systems built to scale.
+> 🔥 I'm a **Software Engineering student** on a mission to become a **complete Full-Stack Developer**. On the **frontend**, I build polished, responsive interfaces with **React** and I'm currently leveling up with **Next.js** to create even more powerful web applications. On the **backend**, I design and build **production-ready RESTful APIs** with **FastAPI**, architect **PostgreSQL databases** with advanced optimization, and containerize my workflows with **Docker**. I use **Git** & **GitHub** for version control across every project. I don't just write code — I engineer robust, maintainable systems built to scale.
 
 <br/>
 
@@ -106,7 +107,7 @@ motto: "Engineering scalable solutions, one query at a time."
 
 ### ✂️ [Elegance Salon](https://github.com/hassanwaheedali/EleganceSalon)
 
-<img align="right" width="90" src="https://img.shields.io/badge/STATUS-COMPLETE-brightgreen?style=for-the-badge&labelColor=0D1117"/>
+<img align="right" width="90" src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-F5A623?style=for-the-badge&labelColor=0D1117"/>
 
 > A premium barbershop web application with cinematic WebGL landing, multi-role dashboards, and full appointment booking engine
 
@@ -122,7 +123,7 @@ motto: "Engineering scalable solutions, one query at a time."
 - 👥 Multi-role system: Admin, Staff & Client dashboards with RBAC
 - 📅 Appointment booking with auto staff assignment & availability validation
 - 🎨 Magnetic buttons, scroll animations & Framer Motion transitions
-- ⭐ **1 Star** — Most starred repository
+- 🔜 **Next Phase:** Planning full backend migration from LocalStorage to PostgreSQL + FastAPI
 
 <a href="https://github.com/hassanwaheedali/EleganceSalon">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
@@ -219,38 +220,7 @@ motto: "Engineering scalable solutions, one query at a time."
 
 </div>
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
 
-**🐘 PostgreSQL Expertise**
-```
-✅ Database Design & Normalization (1NF → BCNF)
-✅ Query Optimization & Performance Tuning
-✅ Indexes, Views & Stored Procedures
-✅ Transaction Management & ACID Compliance
-✅ Complex Joins, Subqueries & CTEs
-✅ Foreign Key Constraints & Referential Integrity
-✅ Schema Migration & Data Modeling
-```
-
-</td>
-<td valign="top" width="50%">
-
-**⚡ FastAPI Expertise**
-```
-✅ RESTful API Design & Development
-✅ Pydantic Models & Request Validation
-✅ Authentication & Authorization (JWT, OAuth)
-✅ Middleware & Dependency Injection
-✅ Async/Await Programming Patterns
-✅ Database Integration (psycopg2, asyncpg)
-✅ Error Handling & Status Code Management
-```
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -283,13 +253,17 @@ motto: "Engineering scalable solutions, one query at a time."
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hassanwaheedali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanwaheedali&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassanwaheedali&theme=tokyonight" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=hassanwaheedali&theme=tokyonight&hide_border=true&background=1a1b27&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
 
 <br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hassanwaheedali&theme=tokyonight" alt="Top Languages by Repo"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hassanwaheedali&theme=tokyonight" alt="Top Languages by Commit"/>
+
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassanwaheedali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hassanwaheedali&theme=tokyonight" alt="Contribution Graph"/>
 
 </div>
 
