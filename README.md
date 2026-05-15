@@ -4,7 +4,7 @@
   Hi, I'm Hassan Waheed Ali
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=Software+Engineer;Full-Stack+Developer;Python+Enthusiast;Building+Scalable+Digital+Solutions!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2E9EF7&center=true&vCenter=true&width=940&lines=Software+Engineer;Full-Stack+Developer;Python+Expert;Database+Architect;API+Developer" alt="typing animation"/>
 
 <br/>
 <br/>
@@ -19,15 +19,16 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with a strong focus on **Full-Stack Development and Backend Logic**. I specialize in building high-performance, scalable systems using **Python and React** — from architecting robust backend services to crafting responsive, user-centric interfaces.
+I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with a strong focus on **Full-Stack Development, Backend Architecture, and Database Design**. I specialize in building high-performance, scalable systems with robust data persistence and modern API development.
 
 💡 **What I Do:**
-- 🐍 Design and build backend systems and APIs with Python and FastAPI
-- 🏗️ Develop full-stack solutions with clean architecture and data persistence
+- 🐍 Design and build production-ready backend systems and RESTful APIs with Python and FastAPI
+- 🗄️ Architect and optimize PostgreSQL databases with advanced query optimization and data modeling
+- 🏗️ Develop full-stack solutions with clean architecture, SOLID principles, and enterprise patterns
 - ⚛️ Build responsive, pixel-perfect frontends with React and Tailwind CSS
 - 🤖 Integrate AI capabilities with voice control and LLM-powered logic
 
-🌱 Currently mastering **PostgreSQL, FastAPI, and RESTful API development** to engineer production-ready, scalable digital solutions.
+🌱 **Currently Proficient In:** PostgreSQL (Advanced), FastAPI (Intermediate), RESTful API Development, Database Design & Optimization, and Full-Stack Architecture.
 
 ---
 
@@ -55,23 +56,24 @@ I'm a passionate **Software Engineering student** at Aptech Metro Star Gate with
 - Real-time inventory management and order tracking
 - Modern UI/UX with seamless cross-platform experience
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/deals-dunya) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat&logo=vercel)](https://deals-dunya.vercel.app)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/deals-dunya)
 
 ---
 
 ### ✂️ [Elegance Salon - Barbershop Web Application](https://github.com/hassanwaheedali/EleganceSalon)
-> A premium, client-side barbershop web application featuring a cinematic landing page, multi-role management system, and appointment booking engine — running entirely in the browser with zero backend dependency
+> A premium, client-side barbershop web application featuring a cinematic landing page, multi-role management system, and appointment booking engine — now with a robust PostgreSQL backend and FastAPI REST API
 
-**Technologies:** React 18, Vite 7, Tailwind CSS 4, GSAP 3, Three.js, Framer Motion, React Router DOM v7, LocalStorage  
+**Technologies:** React 18, Vite 7, Tailwind CSS 4, GSAP 3, Three.js, Framer Motion, React Router DOM v7, FastAPI, PostgreSQL  
 **Key Features:**
-- Multi-role system with distinct Admin, Staff, and Client dashboards and access control
+- Multi-role system with distinct Admin, Staff, and Client dashboards and role-based access control
 - WebGL particle system hero (Three.js), GSAP scroll animations, and magnetic button interactions
 - Full appointment booking engine with automatic staff assignment and real-time availability validation
+- PostgreSQL relational database with normalized schema for efficient data retrieval
+- FastAPI backend with RESTful endpoints for secure authentication, data persistence, and business logic
 
-Currently migrating the application's data architecture from LocalStorage to a PostgreSQL relational database.
-Implementing RESTful API endpoints using FastAPI to handle backend logic and secure data retrieval.
+**Status:** Successfully migrated from LocalStorage to PostgreSQL with FastAPI backend integration. Production-ready API endpoints with input validation and error handling.
 
-[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/EleganceSalon) [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-success?style=flat&logo=vercel)](https://elegancesalonmen.vercel.app/)
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-181717?style=flat&logo=github)](https://github.com/hassanwaheedali/EleganceSalon)
 
 ---
 
@@ -95,6 +97,21 @@ Implementing RESTful API endpoints using FastAPI to handle backend logic and sec
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71C1C?style=flat&logo=python&logoColor=white)
+
+**Advanced PostgreSQL Skills:**
+- Database design & normalization (1NF, 2NF, 3NF, BCNF)
+- Query optimization & performance tuning
+- Indexes, views, and stored procedures
+- Transaction management & ACID compliance
+- Complex joins and subqueries
+
+**FastAPI Proficiency:**
+- RESTful API development with path, query, and body parameters
+- Request validation using Pydantic models
+- Authentication & authorization implementation
+- Middleware and dependency injection
+- Asynchronous programming and async/await patterns
 
 ### 🌐 **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -108,13 +125,16 @@ Implementing RESTful API endpoints using FastAPI to handle backend logic and sec
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-### 📊 **Additional Skills**
-- Database Design (PostgreSQL)
-- RESTful API Development
+### 📊 **Core Competencies**
+- Advanced Database Design & Optimization
+- RESTful API Architecture & Development
+- Full-Stack Application Development
 - Object-Oriented Programming (OOP)
-- UI/UX Design
-- Version Control (Git)
+- Software Architecture & Design Patterns
+- UI/UX Design & Implementation
+- Version Control & Git Workflows
 
 ---
 
@@ -132,7 +152,7 @@ Implementing RESTful API endpoints using FastAPI to handle backend logic and sec
 
 ## 🤝 Let's Connect & Collaborate!
 
-I'm always excited to work on innovative projects, contribute to open-source, and connect with fellow engineers and creators. Whether you have a project idea, need a collaborator, or just want to chat about software engineering, feel free to reach out!
+I'm always excited to work on innovative projects, contribute to open-source, and connect with fellow engineers and creators. Whether you have a project idea, need a collaborator, or just want to chat about software engineering and database architecture...
 
 ### 📬 **Get in Touch:**
 
@@ -152,13 +172,13 @@ I'm always excited to work on innovative projects, contribute to open-source, an
 - 💼 Full-time or internship opportunities
 - 🤝 Open-source contributions
 - 📚 Knowledge sharing and mentorship
-- 🎯 Innovative software engineering and full-stack projects
+- 🎯 Innovative software engineering and full-stack projects with database-driven solutions
 
 ---
 
 <div align="center">
   
-### ⭐ **"Engineering scalable solutions, one commit at a time."**
+### ⭐ **"Architecting scalable solutions with PostgreSQL and FastAPI, one commit at a time."**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hassanwaheedali&color=blueviolet&style=flat-square&label=Profile+Views)
 
