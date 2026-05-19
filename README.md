@@ -49,7 +49,7 @@ role: Software Engineer & Full-Stack Developer
 education:
   - degree: Diploma in Software Engineering
     institution: Aptech Metro Star Gate
-    period: 2023 - Present
+    period: 2023 - Present (LAST YEAR)
   - degree: Matriculation in Computer Science
     institution: Chiniot Islamia Public School
     year: 2022
