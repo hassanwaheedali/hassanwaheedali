@@ -54,6 +54,7 @@ education:
     year: 2022
 
 certifications:
+  - Practical Prompt Engineering - Frontend Masters (2026)
   - Hard Parts of JavaScript — Frontend Masters (2026)
   - Complete Intro to SQL & PostgreSQL — Frontend Masters (2026)
   - Mobile App Development — NED Academy (2025)
