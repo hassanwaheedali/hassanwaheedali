@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:16213E&height=220&section=header&text=Hassan%20Waheed%20Ali&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Database%20Architect&descSize=18&descAlignY=55&descColor=58A6FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1A2E,100:16213E&height=220&section=header&text=Hassan%20Waheed%20Ali&fontSize=52&fontColor=FFFFFF&fontAlign=50&fontAlignY=60"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;PostgreSQL+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+Python+%F0%9F%92%BB" alt="typing animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=Building+Scalable+Full-Stack+Solutions;React+%2B+FastAPI+%2B+PostgreSQL;Frontend+Artistry+%2B+Backend+Power;Engineering+Tomorrow%2C+Today"/>
 
 <br/>
 <br/>
@@ -60,14 +60,14 @@ certifications:
   - Graphic Designing & Digital Literacy — DigiSkills.pk (2020)
   - WordPress & Freelancing — DigiSkills.pk (2020)
 
-currently_building: Production-grade backend systems with PostgreSQL & FastAPI
+currently_building: Production-grade full-stack applications with React, FastAPI & PostgreSQL
 specialization: Frontend Development • Backend Architecture • Database Design • Full-Stack Development
 motto: "Engineering scalable solutions, one query at a time."
 ```
 
 <br/>
 
-> 🔥 I'm a **Software Engineering student** on a mission to become a **complete Full-Stack Developer**. On the **frontend**, I build polished, responsive interfaces with **React** and I'm currently leveling up with **Next.js** to create even more powerful web applications. On the **backend**, I design and build **production-ready RESTful APIs** with **FastAPI**, architect **PostgreSQL databases** with advanced optimization, and containerize my workflows with **Docker**. I use **Git** & **GitHub** for version control across every project. I don't just write code — I engineer robust, maintainable systems built to scale.
+> 🔥 I'm a **Software Engineering student** on a mission to become a **complete Full-Stack Developer**. On the **frontend**, I build polished, responsive interfaces with **React** and modern animation libraries. On the **backend**, I architect robust systems with **FastAPI** and **PostgreSQL**, designing scalable databases with optimized queries and clean API design.
 
 <br/>
 
@@ -255,7 +255,7 @@ motto: "Engineering scalable solutions, one query at a time."
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hassanwaheedali&theme=tokyonight" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=hassanwaheedali&theme=tokyonight&hide_border=true&background=1a1b27&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=hassanwaheedali&theme=tokyonight&hide_border=true&background=1a1b27&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=2024-01-01,2026-12-31" alt="GitHub Streak"/>
 
 <br/>
 
@@ -297,7 +297,7 @@ motto: "Engineering scalable solutions, one query at a time."
 🚀  Available for freelance projects & collaborations  
 🤝  Interested in open-source contributions
 📚  Passionate about knowledge sharing & mentorship
-🎯  Focused on backend systems & database-driven solutions
+🎯  Focused on full-stack development & scalable solutions
 ```
 
 <br/>
@@ -329,6 +329,6 @@ motto: "Engineering scalable solutions, one query at a time."
 
 **⭐ If you find my work interesting, consider starring my repositories!**
 
-*"Engineering scalable solutions with PostgreSQL and FastAPI — one commit at a time."*
+*"Engineering scalable solutions with React, FastAPI, and PostgreSQL — one commit at a time."*
 
 </div>
